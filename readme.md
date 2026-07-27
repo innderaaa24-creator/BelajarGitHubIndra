@@ -1,3 +1,5 @@
 # Belajar GitHub
 
-Repository pertama saya.
+Halo semuanya.
+
+Saya sedang belajar Git.
